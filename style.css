@@ -1,0 +1,26 @@
+body {
+  background-color: #aaffff;
+}
+ul {
+  list-style-type: circle;
+}
+.one {
+  color: darkred;
+}
+.two {
+  color: darkgreen;
+}
+.fake {
+  background-color: #b3aaff;
+  height: 200px;
+}
+
+.container {
+  background-color: #ffe1aa;
+  height: 1500px;
+}
+
+img {
+  position: sticky;
+  top: 300px;
+}
